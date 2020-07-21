@@ -1,2 +1,0 @@
-﻿Olá mundo!
-Sou um arquivo .txt!
