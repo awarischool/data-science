@@ -1,1 +1,1 @@
-# br-data-science
+# Data Science Bootcamp Repository
